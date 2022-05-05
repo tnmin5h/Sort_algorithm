@@ -189,3 +189,6 @@ int main() {
 	return 0;
 }
 ```
+---
+## 정렬 알고리즘의 시간복잡도 비교
+![image](https://user-images.githubusercontent.com/101817735/166953388-a1b308b4-9c6f-4e5d-91b7-e88b065e16a9.png)
